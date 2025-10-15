@@ -10,3 +10,4 @@ Solução a automação trata e reclassifica esse códigos trazendo novas coluna
 
 
 
+
